@@ -1,3 +1,6 @@
+NAME="sugar-Abacus"
+VERSION=43
+RELEASE=1
 SUGAR_TYPE="Honey"
 inherit sugar
 
